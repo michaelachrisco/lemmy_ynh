@@ -17,7 +17,7 @@ admindoc = "https://join-lemmy.org/docs/en/"
 code = "https://github.com/LemmyNet/lemmy"
 
 [integration]
-yunohost = ">= 12.0"
+yunohost = ">= 11.0"
 architectures = ["amd64"]
 multi_instance = false
 
